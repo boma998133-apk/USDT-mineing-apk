@@ -1,0 +1,6 @@
+{
+  "name": "TetherMint",
+  "description": "Installable USDT cloud mining simulator PWA with virtual rig upgrades, live yield cycles, and simulated wallet ledger.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
